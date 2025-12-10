@@ -35,13 +35,13 @@ Certifique-se de ter o **Python 3.x** instalado em sua máquina.
 1.  **Clone o repositório:**
     ```bash
     git clone [https://docs.github.com/pt/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github](https://docs.github.com/pt/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github)
-    cd [NOME DO SEU REPOSITÓRIO]
+    cd sistemaBibliotecaDigital
     ```
 
 2.  **Execute o script:**
     ```bash
     python seu_arquivo.py 
-    # Substitua 'seu_arquivo.py' pelo nome do seu arquivo, se for diferente.
+    
     ```
 
 ## 📖 Como Usar (Menu Principal)
